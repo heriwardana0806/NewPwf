@@ -1,0 +1,97 @@
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\bin\Debug\UserAccess.exe.config
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\bin\Debug\UserAccess.exe
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\bin\Debug\UserAccess.pdb
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\bin\Debug\EntityFramework.dll
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\bin\Debug\MaterialDesignColors.dll
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\bin\Debug\EntityFramework.xml
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\bin\Debug\MaterialDesignColors.pdb
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\obj\Debug\UserAccess.csprojResolveAssemblyReference.cache
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\obj\Debug\View\Home.g.cs
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\obj\Debug\View\MainWindow.g.cs
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\obj\Debug\View\Register.g.cs
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\obj\Debug\App.g.cs
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\obj\Debug\UserAccess_MarkupCompile.cache
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\obj\Debug\UserAccess_MarkupCompile.lref
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\obj\Debug\App.baml
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\obj\Debug\View\Home.baml
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\obj\Debug\View\MainWindow.baml
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\obj\Debug\View\Register.baml
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\obj\Debug\UserAccess.g.resources
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\obj\Debug\UserAccess.Migrations.AddTableUser.resources
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\obj\Debug\UserAccess.Properties.Resources.resources
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\obj\Debug\UserAccess.csproj.GenerateResource.Cache
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\obj\Debug\UserAccess.exe
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\obj\Debug\UserAccess.pdb
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\obj\Debug\View\Update.g.cs
+E:\Apps\Xampp\htdocs\Belajar C#\UserAccess\UserAccess\obj\Debug\View\Update.baml
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\bin\Debug\UserAccess.exe.config
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\bin\Debug\UserAccess.exe
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\bin\Debug\UserAccess.pdb
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\bin\Debug\EntityFramework.dll
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\bin\Debug\MaterialDesignColors.dll
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\bin\Debug\EntityFramework.xml
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\obj\Debug\UserAccess.csprojAssemblyReference.cache
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\obj\Debug\View\Home.g.cs
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\obj\Debug\View\MainWindow.g.cs
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\obj\Debug\View\Register.g.cs
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\obj\Debug\View\Update.g.cs
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\obj\Debug\App.g.cs
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\obj\Debug\UserAccess_MarkupCompile.cache
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\obj\Debug\UserAccess_MarkupCompile.lref
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\obj\Debug\App.baml
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\obj\Debug\View\Home.baml
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\obj\Debug\View\MainWindow.baml
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\obj\Debug\View\Register.baml
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\obj\Debug\View\Update.baml
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\obj\Debug\UserAccess.g.resources
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\obj\Debug\UserAccess.Migrations.AddTableUser.resources
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\obj\Debug\UserAccess.Properties.Resources.resources
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\obj\Debug\UserAccess.csproj.GenerateResource.cache
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\obj\Debug\UserAccess.csproj.CoreCompileInputs.cache
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\obj\Debug\UserAccess.csproj.CopyComplete
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\obj\Debug\UserAccess.exe
+C:\Users\Heri Wardana Ginting\source\repos\UserAccessWPF-master\UserAccess\obj\Debug\UserAccess.pdb
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\bin\Debug\UserAccess.exe.config
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\bin\Debug\UserAccess.exe
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\bin\Debug\UserAccess.pdb
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\bin\Debug\EntityFramework.dll
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\bin\Debug\MaterialDesignColors.dll
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\bin\Debug\EntityFramework.xml
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\obj\Debug\UserAccess.csprojAssemblyReference.cache
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\obj\Debug\View\Home.g.cs
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\obj\Debug\View\MainWindow.g.cs
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\obj\Debug\View\Register.g.cs
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\obj\Debug\View\Update.g.cs
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\obj\Debug\App.g.cs
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\obj\Debug\UserAccess_MarkupCompile.cache
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\obj\Debug\UserAccess_MarkupCompile.lref
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\obj\Debug\App.baml
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\obj\Debug\View\Home.baml
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\obj\Debug\View\MainWindow.baml
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\obj\Debug\View\Register.baml
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\obj\Debug\View\Update.baml
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\obj\Debug\UserAccess.g.resources
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\obj\Debug\UserAccess.Migrations.AddTableUser.resources
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\obj\Debug\UserAccess.Properties.Resources.resources
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\obj\Debug\UserAccess.csproj.GenerateResource.cache
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\obj\Debug\UserAccess.csproj.CoreCompileInputs.cache
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\obj\Debug\UserAccess.csproj.CopyComplete
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\obj\Debug\UserAccess.exe
+C:\Users\Heri Wardana Ginting\source\repos\Wpf\UserAccess\obj\Debug\UserAccess.pdb
